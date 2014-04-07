@@ -2,6 +2,12 @@ package ble180.sudokuSolution;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author ble180
+ * 
+ */
+
 public class Sudoku implements Cloneable {
 
 	private final int sizeSudoku = 9;

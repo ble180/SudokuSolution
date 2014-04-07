@@ -2,6 +2,11 @@ package ble180.sudokuSolution;
 
 import java.util.ArrayList;
 
+/**
+ * 
+ * @author ble180
+ *
+ */
 public class SudokuSolution {
 
 	public static void main(String[] args) {

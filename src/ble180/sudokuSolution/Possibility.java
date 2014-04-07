@@ -1,7 +1,7 @@
 package ble180.sudokuSolution;
 
 /**
- * Represent one posibility of a position in the Sudoku game
+ * It represents one possible number in a position in the Sudoku game
  * 
  * @author ble180
  *
